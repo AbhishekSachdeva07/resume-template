@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+    justify-content: center;
+    width: 1300px;
+    position: absolute;
+    left: 8%;
+    height: 1200px;
+}
+img{
+    width: 250px;
+}
+.con{
+    position: absolute;
+    top: 260px;
+    left: 8%;
+    overflow: hidden;
+    width: 85%;
+}
+.left{
+    color: white;
+    background-color: rgb(40, 185, 185);
+    width: 35%;
+    float: left;
+    height: 800px;
+}
+.right{
+    width: 64%;
+    float: right;
+    background-color: rgb(187, 184, 181);
+    height: 800px;
+}
+.right span{
+    text-align: left;
+}
+td,th{
+    border: 1px solid white;
+    width: 200px;
+    height: 25px;
+}
+table{
+    margin: 15px;
+}
